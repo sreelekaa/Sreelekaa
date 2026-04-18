@@ -60,6 +60,10 @@ Python | SQL | Pandas | NumPy | Power BI | Tableau | Scikit-Learn
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/sreelekaa/sreelekaa/blob/output/github-contribution-grid-snake.svg)
+
 ## 🏆 Achievements
 
 * 🧠 Solved **200+ LeetCode problems**
