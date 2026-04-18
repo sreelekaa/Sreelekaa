@@ -8,69 +8,42 @@
 
 ## 🚀 About Me
 
-Data Analyst skilled in transforming raw data into actionable insights.
-Experienced in working with **10K+ datasets**, building ML models, and delivering **91% prediction accuracy**.
-
-🎯 Currently focused on Data Analytics & Machine Learning roles
+* 📊 Worked with **10K+ datasets**
+* 🤖 Built ML models (FP-Growth, K-Means)
+* 📈 Achieved **91% prediction accuracy**
+* 🎯 Goal: Data Analyst / ML Engineer
 
 ---
 
 ## 🧠 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,java,cpp,git" />
-</p>
-
-📊 **Data:** Pandas, NumPy, EDA, Feature Engineering
-🤖 **ML:** K-Means, FP-Growth, Scikit-Learn
-📈 **Visualization:** Power BI, Tableau, Excel, Matplotlib
+Python | SQL | Pandas | NumPy | Power BI | Tableau | Scikit-Learn
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects (Uploading Soon 🚀)
 
-### 🛒 Market Basket Analysis
-
-✔ 10K+ transactions analyzed
-✔ FP-Growth model with 91% accuracy
-✔ Business impact: improved cross-selling
-
-### 👥 Customer Segmentation
-
-✔ K-Means clustering
-✔ 30% better segmentation efficiency
-✔ Targeted marketing insights
-
-### 🚚 Logistics Management System
-
-✔ Full-stack (React + Spring Boot)
-✔ Reduced manual work by 40%
+* 🛒 Market Basket Analysis
+* 👥 Customer Segmentation
+* 🚚 Logistics Management System
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=sreelekaa\&show_icons=true\&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=sreelekaa\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## 🏆 Achievements
-
-* Solved **200+ LeetCode problems**
-* Data Analytics Internship Experience
-* Built real-world ML models
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreelekaa\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/sreelekamanickam/
-📧 Email: [sreelemanickam@gmail.com](mailto:sreelemanickam@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/sreelekamanickam/
+* 📧 Email: [sreelemanickam@gmail.com](mailto:sreelemanickam@gmail.com)
 
 ---
 
-⭐ *“Data is powerful when turned into decisions.”*
+⭐ *“Turning data into insights.”*
